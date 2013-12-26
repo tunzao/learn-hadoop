@@ -11,7 +11,7 @@ import java.io.IOException;
 import java.util.Iterator;
 
 /**
- * @author: likuan@jd.com
+ * @author: tunzao
  * @date: 13-12-25 下午6:06
  */
 public class MaxTemperatureReducer extends MapReduceBase

@@ -11,7 +11,7 @@ import org.apache.hadoop.mapred.Reporter;
 import java.io.IOException;
 
 /**
- * @author: likuan@jd.com
+ * @author: tunzao
  * @date: 13-12-25 下午5:55
  */
 public class MaxTemperatureMapper extends MapReduceBase
